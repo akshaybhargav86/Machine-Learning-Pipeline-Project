@@ -1,26 +1,30 @@
-# Machine-Learning-Pipeline-Project
-A beginner-friendly Machine Learning project focused on understanding and implementing ML pipelines through step-by-step processes. This project demonstrates practical learning of pipeline workflows and building a structured machine learning process using Python.
+# Titanic Dataset – Machine Learning Pipeline
 
-# Machine Learning Pipeline Project
-
-## About the Project
-This is a small beginner-level Machine Learning project created as part of my continuous learning journey in Data Science and Machine Learning.
-
-The main objective of this project is to understand how Machine Learning pipelines work and how different steps can be organized into a structured workflow.
+## Project Overview
+This is a beginner-friendly Machine Learning project built using the Titanic dataset. The main objective was to understand and implement a Machine Learning Pipeline through small, structured steps.
 
 ## Key Learning Areas
-- Understanding Machine Learning Pipelines
-- Organizing ML workflows
-- Implementing pipeline steps
-- Hands-on practice with Python and Machine Learning
+- Data preprocessing and cleaning
+- Handling missing values
+- Feature preparation
+- Building a Machine Learning Pipeline
+- Organizing preprocessing and model training steps
+- Understanding the end-to-end ML workflow
+
+## Dataset
+Titanic Dataset – used to explore passenger information and survival prediction.
+
+## Objective
+To gain practical experience with Machine Learning pipelines and understand how different preprocessing and modeling steps can be organized into a structured workflow.
 
 ## Tools & Technologies
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
+- Jupyter Notebook
 
 ## Learning Outcome
-This project helped me gain practical exposure to Machine Learning pipelines and understand how different stages of an ML workflow can work together.
+This project helped me understand the practical implementation of Machine Learning Pipelines and strengthened my fundamentals through hands-on practice.
 
-More projects and improvements coming soon!
+This is one of my small steps toward building more practical Machine Learning projects.
